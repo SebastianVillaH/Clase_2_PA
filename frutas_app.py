@@ -2,7 +2,7 @@ import streamlit as st
 import math
 
 # Cargar un gif local
-st.image("Hamster.gif", width=400)
+st.image("Hamster.gif", width=250)
 
 
 st.title("🍎 ¿Qué fruta es más parecida?")
