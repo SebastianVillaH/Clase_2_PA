@@ -1,6 +1,9 @@
 import streamlit as st
 import math
 
+# Cargar un gif local
+st.image("Venom.gif", width=50)
+
 st.title("🍎 ¿Qué fruta es más parecida?")
 
 # Cargar un gif local
