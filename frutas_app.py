@@ -1,11 +1,10 @@
 import streamlit as st
 import math
 
+st.title("🍎 ¿Qué fruta es más parecida?")
+
 # Cargar un gif local
 st.image("Hamster.gif", width=250)
-
-
-st.title("🍎 ¿Qué fruta es más parecida?")
 
 st.write("Introduce las características de una fruta.")
 
